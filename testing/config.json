@@ -1,0 +1,8 @@
+{
+    "ServerPEM": "certs/server.pem",
+    "ServerKey": "certs/server.key",
+    "Domain": "sealed.ch",
+    "ListeningOn": "0.0.0.0:8002",
+    "DatabaseType": "postgres",
+    "DatabaseConfig": "user=sechat password= dbname=sechatdb sslmode=disable"
+}
